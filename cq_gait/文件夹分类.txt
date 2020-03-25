@@ -1,6 +1,0 @@
-assets放静态文件，样式图片之类
-components 放功能文件
-https  接口请求模块
-router 路由
-views 页面文件
-utils  其余的文件，目前有放置全局配置文件
